@@ -3,7 +3,7 @@
 #$ CATEGORY: TUNE
 #$ STATUS: EXPERIMENTAL
 #$ KEYWORDS: Nakhtigal, reset, tune, pid, basic, default
-#$ AUTHOR: Betaflight
+#$ AUTHOR: Nakhtigal
 #$ DESCRIPTION: Resets all Basic 4.5 Tune category parameters to defaults
 #$ DESCRIPTION: WARNING: Overwrites all settings mentioned below to defaults.  The User cannot retain their previous values.
 #$ DESCRIPTION: WARNING: Tune authors must explicitly set these values to something other than default, if needed for the tune.

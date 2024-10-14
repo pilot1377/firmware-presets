@@ -6986,7 +6986,7 @@
     },
     {
       "fullPath": "presets/4.5/tune/defaults_our_setup.txt",
-      "hash": "fd58c2793580f869819aff7473fdde54f7b8ebf1b7c6b896349be55de9346680",
+      "hash": "a5cdab07824deb19f3acc3a6e4c1cc8e07cd47eaf893ced1dcfa7c544e08af3d",
       "title": "Nakhtigal 4.5 OUR TUNE",
       "firmware_version": [
         "4.5"
@@ -7001,7 +7001,7 @@
         "basic",
         "default"
       ],
-      "author": "Betaflight",
+      "author": "Nakhtigal",
       "priority": 0
     },
     {
