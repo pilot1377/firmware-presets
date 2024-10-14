@@ -47,81 +47,11 @@
 #$ OPTION_GROUP BEGIN: 3D options
 
     #$ OPTION BEGIN (CHECKED): 3D setup
-       set osd_vbat_pos = 10711
-set osd_rssi_pos = 449
-set osd_link_quality_pos = 10593
-set osd_rssi_dbm_pos = 10625
-set osd_flymode_pos = 10433
-set osd_vtx_channel_pos = 27082
-set osd_crosshairs_pos = 8397
-set osd_mah_drawn_pos = 2136
-set osd_craft_name_pos = 14369
-set osd_altitude_pos = 10294
-set osd_warnings_pos = 14761
-set osd_throttle_pos = 2264 
-set osd_avg_cell_voltage_pos = 2487
-set osd_pilot_name_pos = 10305
-
-
-set vtx_band = 5
-set vtx_channel = 5
-set vtx_power = 1
-
-set blackbox_device = NONE
-set mag_hardware = NONE
-set vtx_low_power_disarm = OFF
-
- 
-set pinio_box = 255,255,42,43
-
-# aux
-aux 0 0 0 1700 2100 0 0
-aux 1 1 1 1700 2100 0 0
-aux 2 2 1 1300 1700 0 0
-aux 3 13 5 1700 2100 0 0
-aux 4 42 4 1800 2100 1 0
-aux 5 42 0 1800 2100 1 0
-aux 6 43 7 1800 2100 1 0
-aux 7 43 0 900 900 1 42
-
-# adjrange
-adjrange 0 0 0 1775 2100 29 4 0 0
-
-
-vtx 0 0 0 0 0 900 900
-vtx 1 0 0 0 0 900 900
-vtx 2 0 0 0 0 900 900
-vtx 3 0 0 0 0 900 900
-vtx 4 0 0 0 0 900 900
-vtx 5 0 0 0 0 900 900
-vtx 6 0 0 0 0 900 900
-vtx 7 0 0 0 0 900 900
-
-feature -TELEMETRY
-feature TELEMETRY
-
-# rxfail
-rxfail 0 h
-rxfail 1 h
-rxfail 2 h
-rxfail 3 h
-rxfail 4 h
-rxfail 5 h
-rxfail 6 h
-rxfail 7 h
-
-set failsafe_delay = 200
-set failsafe_off_delay = 200
-set failsafe_throttle = 1600
-set failsafe_switch_mode = STAGE1
-set failsafe_throttle_low_delay = 100
-set failsafe_procedure = AUTO-LAND
-set failsafe_recovery_delay = 10
-set failsafe_stick_threshold = 30
+    
     #$ OPTION END
     
     #$ OPTION BEGIN (UNCHECKED): Remove 3D setup
-        #$ INCLUDE: presets/4.5/other/reset_3d.txt
+        #$ INCLUDE: presets/4.5/other/our setup board osd.txt
     #$ OPTION END
 
 #$ OPTION_GROUP END
