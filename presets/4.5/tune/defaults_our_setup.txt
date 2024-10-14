@@ -7,7 +7,8 @@
 #$ DESCRIPTION: Resets all Basic 4.5 Tune category parameters to defaults
 #$ DESCRIPTION: WARNING: Overwrites all settings mentioned below to defaults.  The User cannot retain their previous values.
 #$ DESCRIPTION: WARNING: Tune authors must explicitly set these values to something other than default, if needed for the tune.
-#$ DESCRIPTION: не забудьте налаштувати ресурси для плати або увімкнути msp на відповідному юарті 
+#$ DESCRIPTION: не забудьте налаштувати ресурси (cli > resources) для плати або увімкнути msp на відповідному юарті 
+#$ DESCRIPTION:
 #$ DESCRIPTION: resource PINIO 3 A09
 #$ DESCRIPTION: resource PINIO 4 B11
 #$ DESCRIPTION: resource MOTOR 5 none
