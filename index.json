@@ -189,6 +189,7 @@
       "MinChan Kim",
       "mouseFPV",
       "MrAlucardDante",
+      "nakhtigal",
       "Neil Marek (Grower)",
       "NemesisXB",
       "QuadMcFly (Ryan Harrell)",
@@ -6444,6 +6445,30 @@
       "author": "Armando Gallegos (Mondo)",
       "force_options_review": true,
       "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/other/our setup board osd.txt",
+      "hash": "d56249bd2d5a785b2af6fa10a57fc6fd8954a487fbb90abc06a3ec03e2762d20",
+      "title": "ZoeFPV 3d tuneup",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "TUNE",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "rates",
+        "freestyle",
+        "juicy",
+        "sbang",
+        "zoeFPV",
+        "zoe",
+        "3d",
+        "upside down",
+        "sugarK",
+        "sliders"
+      ],
+      "author": "nakhtigal",
+      "priority": 1000000000000
     },
     {
       "fullPath": "presets/4.5/other/reset_3d.txt",
