@@ -443,6 +443,7 @@
       "Multi",
       "MultiGP",
       "MultiVoltage",
+      "Nakhtigal",
       "names",
       "nano",
       "nanohawk",
@@ -6974,6 +6975,26 @@
       "status": "OFFICIAL",
       "keywords": [
         "defaults",
+        "reset",
+        "tune",
+        "pid",
+        "basic",
+        "default"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/tune/defaults_our_setup.txt",
+      "hash": "fd58c2793580f869819aff7473fdde54f7b8ebf1b7c6b896349be55de9346680",
+      "title": "Nakhtigal 4.5 OUR TUNE",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "TUNE",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "Nakhtigal",
         "reset",
         "tune",
         "pid",
