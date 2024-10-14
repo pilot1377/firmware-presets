@@ -1,8 +1,8 @@
-#$ TITLE: ZoeFPV 3d tuneup
+#$ TITLE: our setup board osd etc
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: TUNE
 #$ STATUS: EXPERIMENTAL
-#$ KEYWORDS: rates, freestyle, juicy, sbang, zoeFPV, zoe, 3d, upside down, sugarK, sliders
+#$ KEYWORDS: our setup board osd etc
 #$ AUTHOR: nakhtigal
 
 #$ PARSER: MARKED

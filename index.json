@@ -459,6 +459,7 @@
       "OpenRacer",
       "OpenVTx",
       "OSD",
+      "our setup board osd etc",
       "ozr",
       "panda",
       "pandarc",
@@ -6448,24 +6449,15 @@
     },
     {
       "fullPath": "presets/4.5/other/our setup board osd.txt",
-      "hash": "d56249bd2d5a785b2af6fa10a57fc6fd8954a487fbb90abc06a3ec03e2762d20",
-      "title": "ZoeFPV 3d tuneup",
+      "hash": "a9fb8e2d5d02a977198a8793e832e55f35c1ebb83cc4f46ad81223acd026d792",
+      "title": "our setup board osd etc",
       "firmware_version": [
         "4.5"
       ],
       "category": "TUNE",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "rates",
-        "freestyle",
-        "juicy",
-        "sbang",
-        "zoeFPV",
-        "zoe",
-        "3d",
-        "upside down",
-        "sugarK",
-        "sliders"
+        "our setup board osd etc"
       ],
       "author": "nakhtigal",
       "priority": 1000000000000
