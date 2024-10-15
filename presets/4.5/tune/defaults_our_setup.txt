@@ -146,7 +146,7 @@ set osd_craftname_msgs = OFF
 #setting new values
 set osd_vbat_pos = 10678
 set osd_rssi_pos = 449
-set osd_link_quality_pos = 2401
+set osd_link_quality_pos = 10593
 set osd_link_tx_power_pos = 234
 set osd_rssi_dbm_pos = 10625
 set osd_tim_1_pos = 234
