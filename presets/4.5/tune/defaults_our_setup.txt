@@ -1,5 +1,5 @@
 #$ TITLE: Nakhtigal 4.5 OUR TUNE 
-#$ FIRMWARE_VERSION: 4.5
+#$ FIRMWARE_VERSION: 4.3, 4.4, 4.5
 #$ CATEGORY: TUNE
 #$ STATUS: EXPERIMENTAL
 #$ KEYWORDS: Nakhtigal, reset, tune, pid, basic, default
@@ -7,7 +7,7 @@
 #$ DESCRIPTION: Resets all Basic 4.5 Tune category parameters to defaults
 #$ DESCRIPTION: WARNING: Overwrites all settings mentioned below to defaults.  The User cannot retain their previous values.
 #$ DESCRIPTION: WARNING: Tune authors must explicitly set these values to something other than default, if needed for the tune.
-#$ DESCRIPTION: не забудьте налаштувати ресурси (cli > resources) для плати або увімкнути msp на відповідному юарті 
+#$ DESCRIPTION: не забудьте налаштувати ресурси (cli > resources) для плати виробника або увімкнути msp на відповідному юарті для нашої плати
 #$ DESCRIPTION:
 #$ DESCRIPTION: resource PINIO 3 A09
 #$ DESCRIPTION: resource PINIO 4 B11
