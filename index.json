@@ -2720,6 +2720,28 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/tune/defaults_our_setup.txt",
+      "hash": "be1b3afb1ac5161f77d358aac7d6cc5d3b88ecbba19c1e3813ba80fe295cf515",
+      "title": "Nakhtigal 4.5 OUR TUNE",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "TUNE",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "Nakhtigal",
+        "reset",
+        "tune",
+        "pid",
+        "basic",
+        "default"
+      ],
+      "author": "Nakhtigal",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/tune/defaults_tune_filters.txt",
       "hash": "0e8fec5c296922e0a46e47490d8b93a75dbcdc0dec49dd3973ca355b6d0a5601",
       "title": "Defaults: TUNE + FILTERS",
@@ -4927,6 +4949,28 @@
         "default"
       ],
       "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/tune/defaults_our_setup.txt",
+      "hash": "be1b3afb1ac5161f77d358aac7d6cc5d3b88ecbba19c1e3813ba80fe295cf515",
+      "title": "Nakhtigal 4.5 OUR TUNE",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "TUNE",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "Nakhtigal",
+        "reset",
+        "tune",
+        "pid",
+        "basic",
+        "default"
+      ],
+      "author": "Nakhtigal",
       "priority": 0
     },
     {
