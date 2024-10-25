@@ -137,7 +137,6 @@
       "3.5",
       "4.2",
       "4.3",
-      "4.3; 4.4; 4.5",
       "4.4",
       "4.5"
     ],
@@ -2721,26 +2720,6 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/tune/defaults_our_setup.txt",
-      "hash": "19cd76ba3e98e38b61f0c14cebd73976c9146612fabd35c713849a360f9b65db",
-      "title": "Nakhtigal 4.5 OUR TUNE",
-      "firmware_version": [
-        "4.3; 4.4; 4.5"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "Nakhtigal",
-        "reset",
-        "tune",
-        "pid",
-        "basic",
-        "default"
-      ],
-      "author": "Nakhtigal",
-      "priority": 0
-    },
-    {
       "fullPath": "presets/4.3/tune/defaults_tune_filters.txt",
       "hash": "0e8fec5c296922e0a46e47490d8b93a75dbcdc0dec49dd3973ca355b6d0a5601",
       "title": "Defaults: TUNE + FILTERS",
@@ -4951,26 +4930,6 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.4/tune/defaults_our_setup.txt",
-      "hash": "19cd76ba3e98e38b61f0c14cebd73976c9146612fabd35c713849a360f9b65db",
-      "title": "Nakhtigal 4.5 OUR TUNE",
-      "firmware_version": [
-        "4.3; 4.4; 4.5"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "Nakhtigal",
-        "reset",
-        "tune",
-        "pid",
-        "basic",
-        "default"
-      ],
-      "author": "Nakhtigal",
-      "priority": 0
-    },
-    {
       "fullPath": "presets/4.4/tune/defaults_tune_filters.txt",
       "hash": "71c03ba3f65b9bb3aff5382c458bc6322ea30d97d20cf2bb3b8e2decfc080551",
       "title": "Defaults: TUNE + FILTERS",
@@ -7011,9 +6970,10 @@
     },
     {
       "fullPath": "presets/4.5/tune/defaults_our_setup.txt",
-      "hash": "24861f1cacb4176c396880147c0be5b12f6ecabbc7189ce84623ebe54caaf4a3",
+      "hash": "be1b3afb1ac5161f77d358aac7d6cc5d3b88ecbba19c1e3813ba80fe295cf515",
       "title": "Nakhtigal 4.5 OUR TUNE",
       "firmware_version": [
+        "4.3",
         "4.4",
         "4.5"
       ],
