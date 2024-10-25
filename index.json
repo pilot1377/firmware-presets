@@ -190,7 +190,7 @@
       "MinChan Kim",
       "mouseFPV",
       "MrAlucardDante",
-      "nakhtigal",
+      "Nakhtigal",
       "Neil Marek (Grower)",
       "NemesisXB",
       "QuadMcFly (Ryan Harrell)",
@@ -461,7 +461,6 @@
       "OpenRacer",
       "OpenVTx",
       "OSD",
-      "our setup board osd etc",
       "ozr",
       "panda",
       "pandarc",
@@ -2722,6 +2721,26 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/tune/defaults_our_setup.txt",
+      "hash": "19cd76ba3e98e38b61f0c14cebd73976c9146612fabd35c713849a360f9b65db",
+      "title": "Nakhtigal 4.5 OUR TUNE",
+      "firmware_version": [
+        "4.3; 4.4; 4.5"
+      ],
+      "category": "TUNE",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "Nakhtigal",
+        "reset",
+        "tune",
+        "pid",
+        "basic",
+        "default"
+      ],
+      "author": "Nakhtigal",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/tune/defaults_tune_filters.txt",
       "hash": "0e8fec5c296922e0a46e47490d8b93a75dbcdc0dec49dd3973ca355b6d0a5601",
       "title": "Defaults: TUNE + FILTERS",
@@ -4932,6 +4951,26 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.4/tune/defaults_our_setup.txt",
+      "hash": "19cd76ba3e98e38b61f0c14cebd73976c9146612fabd35c713849a360f9b65db",
+      "title": "Nakhtigal 4.5 OUR TUNE",
+      "firmware_version": [
+        "4.3; 4.4; 4.5"
+      ],
+      "category": "TUNE",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "Nakhtigal",
+        "reset",
+        "tune",
+        "pid",
+        "basic",
+        "default"
+      ],
+      "author": "Nakhtigal",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.4/tune/defaults_tune_filters.txt",
       "hash": "71c03ba3f65b9bb3aff5382c458bc6322ea30d97d20cf2bb3b8e2decfc080551",
       "title": "Defaults: TUNE + FILTERS",
@@ -6450,21 +6489,6 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.5/other/our setup board osd.txt",
-      "hash": "3058efdaf98402486dac1cd9e95fb68b988a75af4a273d3374536e3f9c66dfd1",
-      "title": "our setup board osd etc",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "TUNE",
-      "status": "EXPERIMENTAL",
-      "keywords": [
-        "our setup board osd etc"
-      ],
-      "author": "nakhtigal",
-      "priority": 1000000000000
-    },
-    {
       "fullPath": "presets/4.5/other/reset_3d.txt",
       "hash": "457090460225ee84ddb27a46e74530078f00741067dcf51fb5f3cec443b29d31",
       "title": "Reset 3D settings to 4.5 default settings",
@@ -6987,7 +7011,7 @@
     },
     {
       "fullPath": "presets/4.5/tune/defaults_our_setup.txt",
-      "hash": "18d16b20a03e0acd61aa9413df82e7de45baa472394b66fd5595df37f0fdcf73",
+      "hash": "19cd76ba3e98e38b61f0c14cebd73976c9146612fabd35c713849a360f9b65db",
       "title": "Nakhtigal 4.5 OUR TUNE",
       "firmware_version": [
         "4.3; 4.4; 4.5"
