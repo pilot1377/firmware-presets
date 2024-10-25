@@ -137,6 +137,7 @@
       "3.5",
       "4.2",
       "4.3",
+      "4.3, 4.4, 4.5",
       "4.4",
       "4.5"
     ],
@@ -6986,10 +6987,10 @@
     },
     {
       "fullPath": "presets/4.5/tune/defaults_our_setup.txt",
-      "hash": "4b3b785914c055c2eb151fa7f4bdca092dfb83d05d9cf715194e06064989c408",
+      "hash": "c85c4b61ca578b62172971836154ea220cc1f93d8fda28522b18d5470067a457",
       "title": "Nakhtigal 4.5 OUR TUNE",
       "firmware_version": [
-        "4.5"
+        "4.3, 4.4, 4.5"
       ],
       "category": "TUNE",
       "status": "EXPERIMENTAL",
