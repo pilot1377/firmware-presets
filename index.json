@@ -2721,10 +2721,12 @@
     },
     {
       "fullPath": "presets/4.3/tune/defaults_our_setup.txt",
-      "hash": "f343713066431ab4808126e6e7d8e604168f8cdfecdeabf0751f7e1cee93cf65",
+      "hash": "7dd5e9edff206399871092326e04b1327dde6cc76bad36e66dacd59e2f7de03a",
       "title": "Nakhtigal 4.5 OUR TUNE",
       "firmware_version": [
-        "4.3"
+        "4.3",
+        "4.4",
+        "4.5"
       ],
       "category": "TUNE",
       "status": "EXPERIMENTAL",
@@ -4951,10 +4953,12 @@
     },
     {
       "fullPath": "presets/4.4/tune/defaults_our_setup.txt",
-      "hash": "395e5e4d25cbdd5556893cadd7e899155f9eb4218bb33d9240343180c2444451",
+      "hash": "7dd5e9edff206399871092326e04b1327dde6cc76bad36e66dacd59e2f7de03a",
       "title": "Nakhtigal 4.5 OUR TUNE",
       "firmware_version": [
-        "4.4"
+        "4.3",
+        "4.4",
+        "4.5"
       ],
       "category": "TUNE",
       "status": "EXPERIMENTAL",
@@ -7010,7 +7014,7 @@
     },
     {
       "fullPath": "presets/4.5/tune/defaults_our_setup.txt",
-      "hash": "c11dbfd2bf21775be0ecda492c2366fc420888f6cede811830f23afe21346683",
+      "hash": "7dd5e9edff206399871092326e04b1327dde6cc76bad36e66dacd59e2f7de03a",
       "title": "Nakhtigal 4.5 OUR TUNE",
       "firmware_version": [
         "4.3",

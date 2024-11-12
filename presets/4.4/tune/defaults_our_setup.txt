@@ -1,5 +1,7 @@
 #$ TITLE: Nakhtigal 4.5 OUR TUNE 
+#$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4
+#$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: TUNE
 #$ STATUS: EXPERIMENTAL
 #$ KEYWORDS: Nakhtigal, reset, tune, pid, basic, default
@@ -198,7 +200,8 @@ set osd_stick_overlay_left_pos = 262
 set osd_stick_overlay_right_pos = 270
 set osd_rate_profile_name_pos = 234
 set osd_pid_profile_name_pos = 234
-set osd_profile_name_pos = 234
+set osd_profile_3_name = !_ACTIVE_!
+set osd_profile_name_pos = 8481
 set osd_rcchannels_pos = 234
 set osd_camera_frame_pos = 35
 set osd_efficiency_pos = 234
