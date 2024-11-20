@@ -242,6 +242,8 @@ vtx 4 0 0 0 0 900 900
 vtx 5 0 0 0 0 900 900
 vtx 6 0 0 0 0 900 900
 vtx 7 0 0 0 0 900 900
+vtx 8 0 0 0 0 900 900
+vtx 9 0 0 0 0 900 900
 
 feature -TELEMETRY
 feature TELEMETRY
