@@ -52,7 +52,8 @@ set feedforward_max_rate_limit = 95
 # -- Set integrated yaw to off, so pitch and yaw are independent (default) --
 # -- Gyro cal on first arm (off, default) --
 # -- Transient throttle limit (off, default) --
-# -- Thrust linear (off, default) --
+# -- Thrust linear --
+set thrust_linear = 25
 # -- Throttle boost (default, 5)
 # -- VBat warning threshold --
 
