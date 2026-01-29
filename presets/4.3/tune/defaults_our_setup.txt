@@ -435,6 +435,6 @@ set osd_pilot_name_pos = 65
 osd_crosshairs_pos = 12493
 set osd_profile_name_pos = 12577
 set vcd_video_system = PAL
-
+set bat_capacity = 0
 
 save
